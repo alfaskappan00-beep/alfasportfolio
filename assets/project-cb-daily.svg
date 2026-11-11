@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="CB Daily project artwork">
+  <rect width="640" height="420" rx="24" fill="#172b23"/>
+  <circle cx="526" cy="85" r="105" fill="#a8e063" opacity=".13"/>
+  <rect x="88" y="150" width="464" height="198" rx="18" fill="#213c2e" stroke="#a8e063" stroke-opacity=".5"/>
+  <path d="M88 203h464M190 150v198M315 150v198M440 150v198" stroke="#80b879" stroke-opacity=".42" stroke-width="5"/>
+  <path d="m125 245 15 15 28-34m47 69 15 15 28-34m80-30 15 15 28-34" fill="none" stroke="#c5f28d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="75" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="700">CB Daily</text>
+  <text x="56" y="115" fill="#d6eac6" font-family="Arial,sans-serif" font-size="19">The daily workflow, in one place</text>
+</svg>

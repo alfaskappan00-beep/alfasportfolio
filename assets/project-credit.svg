@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Credit Management System project artwork">
+  <rect width="640" height="420" rx="24" fill="#352518"/>
+  <circle cx="526" cy="83" r="105" fill="#ffc46b" opacity=".13"/>
+  <rect x="84" y="163" width="472" height="175" rx="18" fill="#493321" stroke="#ffc46b" stroke-opacity=".5"/>
+  <path d="M130 290h83v-59h83v59h83v-99h83v99h51" fill="none" stroke="#ffc46b" stroke-width="12" stroke-linejoin="round"/>
+  <text x="54" y="71" fill="#fff" font-family="Arial,sans-serif" font-size="35" font-weight="700">Credit Management</text>
+  <text x="56" y="112" fill="#f3ddbc" font-family="Arial,sans-serif" font-size="19">Track records and balances</text>
+</svg>

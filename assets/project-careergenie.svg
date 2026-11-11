@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="CareerGenie project artwork">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#30225e"/><stop offset="1" stop-color="#13122d"/></linearGradient></defs>
+  <rect width="640" height="420" rx="24" fill="url(#g)"/>
+  <circle cx="519" cy="84" r="110" fill="#9c8cff" opacity=".15"/>
+  <path d="M80 285h485M120 285v-60h118v60M263 285v-112h118v112M407 285v-174h118v174" fill="none" stroke="#9c8cff" stroke-width="9" stroke-linejoin="round" opacity=".72"/>
+  <text x="54" y="75" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="700">CareerGenie</text>
+  <text x="56" y="115" fill="#d7d0ff" font-family="Arial,sans-serif" font-size="19">Explore your next step</text>
+</svg>

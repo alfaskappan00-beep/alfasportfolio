@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="CB Verify project artwork">
+  <rect width="640" height="420" rx="24" fill="#102539"/>
+  <circle cx="525" cy="85" r="105" fill="#4da3ff" opacity=".12"/>
+  <rect x="82" y="156" width="476" height="175" rx="18" fill="#17384e" stroke="#4da3ff" stroke-opacity=".45"/>
+  <path d="m154 246 42 40 88-94" fill="none" stroke="#73c0ff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M323 210h180M323 248h138M323 286h95" stroke="#7db3d1" stroke-width="11" stroke-linecap="round" opacity=".65"/>
+  <text x="54" y="75" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="700">CB Verify</text>
+  <text x="56" y="115" fill="#b8d7ed" font-family="Arial,sans-serif" font-size="19">Clearer verification workflows</text>
+</svg>

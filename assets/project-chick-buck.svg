@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Chick Buck Website project artwork">
+  <rect width="640" height="420" rx="24" fill="#351b18"/>
+  <circle cx="526" cy="83" r="105" fill="#f28b3c" opacity=".14"/>
+  <rect x="80" y="158" width="480" height="180" rx="18" fill="#512723" stroke="#f28b3c" stroke-opacity=".55"/>
+  <rect x="105" y="185" width="430" height="27" rx="6" fill="#f28b3c" opacity=".72"/>
+  <rect x="105" y="231" width="126" height="82" rx="10" fill="#d86b39" opacity=".75"/>
+  <rect x="248" y="231" width="126" height="82" rx="10" fill="#d86b39" opacity=".55"/>
+  <rect x="391" y="231" width="144" height="82" rx="10" fill="#d86b39" opacity=".35"/>
+  <text x="54" y="75" fill="#fff" font-family="Arial,sans-serif" font-size="39" font-weight="700">Chick Buck</text>
+  <text x="56" y="115" fill="#f7d5ba" font-family="Arial,sans-serif" font-size="19">Restaurant website</text>
+</svg>
